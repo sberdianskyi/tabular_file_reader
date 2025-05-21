@@ -45,12 +45,12 @@ Note: CPORT SAS files are not supported.
 
 Input example:
 ```
-Enter your file path: C:\Users\Sergiy\Downloads\example.xlsx
+Enter your file path: C:\Users\User\Downloads\example.xlsx
 ```
 
 Output example:
 ```
-File: C:\Users\Sergiy\Downloads\example.xlsx, Sheet: Sheet1
+File: C:\Users\User\Downloads\example.xlsx, Sheet: Sheet1
    Column1  Column2
 0       10       20
 1       30       40
